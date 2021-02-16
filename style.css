@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    font-family: Verdana;
+    background-image:url(image/petra.jpg);
+    background-size:cover;
+    color:white;
+}
+
+h1{
+    font-size: 50px;
+    padding-top: 200px;
+    text-shadow: 2px 2px 2px black;
+    margin-bottom: 15px;
+}
+
+p{
+    font-size: 25px;
+}
+
+.botao{
+    text-decoration: none;
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 8px;
+}
+
+.botao:hover{
+    background:black;
+}   
+
+.lista{
+    list-style: none;
+    padding-left: 0;
+    margin-top: 10px;
+}  
+
+.lista li{
+    display: inline;
+}
+
+.lista a{
+   color: white; 
+   font-size: 30px;
+   margin-inline: 20px;
+   text-shadow: 1px 1px 1px black;
+
+} 
+
+.feeling{
+    font-size: 20px;
+    margin-top: 45px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+
+}
+
+.descricao{
+    text-shadow: 1px 1px 1px black;
+    color: white;
+}
